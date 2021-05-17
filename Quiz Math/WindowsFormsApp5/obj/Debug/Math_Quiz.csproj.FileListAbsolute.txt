@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\Math_Quiz.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\Math_Quiz.Form1.resources
+C:\Users\user\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\Math_Quiz.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\Math_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\user\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
